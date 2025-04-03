@@ -1,0 +1,10 @@
+streamlit
+pandas
+faker
+matplotlib
+seaborn
+wordcloud
+textblob
+numpy
+pillow
+opencv-python-headless
